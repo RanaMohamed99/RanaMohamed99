@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rana Mohamed</h1>
-<h3 align="center">A passionate Senior Computer Engineering Student, who is always eager and keen to learn new skills. I am currently looking for a Job opportunity that will add to my knowledge.</h3>
+<h3 align="center">A passionate Junior Software Engineer, who is always eager and keen to learn new skills. I am currently looking for a Job opportunity that will add to my knowledge.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranamohamed99" alt="ranamohamed99" /></a> </p>
 
