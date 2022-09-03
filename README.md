@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranamohamed99" alt="ranamohamed99" /></a> </p>
 
-- 🌱 I’m currently learning **Automated Testing**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RanaMohamed99](https://github.com/RanaMohamed99)
 
